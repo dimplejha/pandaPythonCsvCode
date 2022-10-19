@@ -6,7 +6,7 @@ con = sqlite3.connect('database.db')
 print("created database")
 # val = input("enter table  name:=")
 
-# Table Definition
+
 
 
 def table_create(table_name):
